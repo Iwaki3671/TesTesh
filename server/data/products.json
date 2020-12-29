@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 12064273040195392,
+      "title": "Такаяки",
+      "description": "",
+      "availableSizes": ["Закуски"],
+      "style": "Japan",
+      "price": 180,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 13,
+      "sku": 51498472915966366,
+      "title": "Куриные Нагетсы",
+      "description": "",
+      "availableSizes": ["Закуски"],
+      "style": "Russian",
+      "price": 130,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 14,
+      "sku": 10686354557628303,
+      "title": "Ролл с лососем",
+      "description": "",
+      "availableSizes": ["Роллы"],
+      "style": "",
+      "price": 110,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 15,
+      "sku": 11033926921508487,
+      "title": "Ролл Цезарь",
+      "description": "T",
+      "availableSizes": ["Роллы"],
+      "style": "Black T-Shirt with front print",
+      "price": 120.0,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 11,
+      "sku": 39876704341265606,
+      "title": "Лапша с курицей в соусе Терияки",
+      "description": "Куриное филе, лапша на выбор, морковь, лук, болгарский перец, соус Терияки, кунжут",
+      "availableSizes": ["WOKи"],
+      "style": "Wine",
+      "price": 270,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 16,
+      "sku": 10412368723880253,
+      "title": "Лапша Со Свининой И Грибами",
+      "description": "Свинина, стручковая фасоль, грибы шампиньоны, лапша на выбор, морковь, лук, перец болгарский, соус Терияки, кунжут",
+      "availableSizes": ["WOKи"],
+      "style": "",
+      "price": 140,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 0,
+      "sku": 8552515751438644,
+      "title": "Ролл «Туна Татаки»",
+      "description": "Жареный тунец, огурец, томат, стружка копчёного тунца, соус Спайси",
+      "availableSizes": ["Роллы"],
+      "style": "",
+      "price": 180,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Ролл «Харакири»",
+      "description": "Стружка тунца, огурец, соус Спайси, начинка на выбор: -лосось; -мидии; -курица; -краб(имит); -окунь",
+      "availableSizes": ["Роллы"],
+      "style": "",
+      "price": 150,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Ролл «Мадагаскар»",
+      "description": "Темпурный кальмар, салат, огурец, кунжут, икра Тобика, соус Лава",
+      "availableSizes": ["Роллы"],
+      "style": "",
+      "price": 110,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Сливочный бум",
+      "description": "Сэт, состоящий из Сливочная креветка, Сливочный лосось, Сливочный оазис. ",
+      "availableSizes": ["Ассорти"],
+      "style": "",
+      "price": 697,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "Сливочное",
+      "description": "",
+      "availableSizes": ["Ассорти"],
+      "style": "",
+      "price": 550,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Ролл «Калифорния»",
+      "description": "",
+      "availableSizes": ["Роллы"],
+      "style": "",
+      "price": 210,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Сет «Наслаждение»",
+      "description": "Goleiro 13/14",
+      "availableSizes": ["Ассорти"],
+      "style": "",
+      "price": 690,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "Рисовая Лапша в Устричном Соусе",
+      "description": "Мидии, кальмары, креветки, лапша рисовая, морковь, лук, перец болгарский, фасоль, устричный соус, кунжут",
+      "availableSizes": ["WOKи"],
+      "style": "",
+      "price": 190,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "WOK Китайский",
+      "description": "Куриное филе, свинина, лапша яичная, пекинская капуста, стручковая фасоль, морковь, лук, соус Якитория, кунжут",
+      "availableSizes": ["WOKи"],
+      "style": "Chinese",
+      "price": 225,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "Лапша с Курицей в Соусе Якитория",
+      "description": "Куриное филе, ананас, лапша на выбор, морковь, лук, перец болгарский, соус Якитория, кунжут",
+      "availableSizes": ["WOKи"],
+      "style": "",
+      "price": 135,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    }
+  ]
+}
